@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/saiha/Downloads/Internals_Basics/MLOPs_Lab_CIE/mlruns/536171844502985584/bce7638c57e2494d98c534090acc98ed/artifacts
+end_time: 1777868299803
+entry_point_name: ''
+experiment_id: '536171844502985584'
+lifecycle_stage: active
+run_id: bce7638c57e2494d98c534090acc98ed
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868293090
+status: 3
+tags: []
+user_id: saiha

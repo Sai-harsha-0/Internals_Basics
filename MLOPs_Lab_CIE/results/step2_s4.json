@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/ping",
+  "predict_endpoint": "/score",
+  "port": 8080,
+  "health_response": {
+    "status": "healthy",
+    "model_loaded": true
+  },
+  "test_input": {
+    "slope_degrees": 30.6,
+    "rainfall_mm": 214.9,
+    "soil_depth_m": 2.2,
+    "vegetation_index": 0.4
+  },
+  "prediction": 33.42549345743335
+}

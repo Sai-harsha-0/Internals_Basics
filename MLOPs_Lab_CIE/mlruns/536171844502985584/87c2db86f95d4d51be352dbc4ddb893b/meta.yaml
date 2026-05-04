@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/saiha/Downloads/Internals_Basics/MLOPs_Lab_CIE/mlruns/536171844502985584/87c2db86f95d4d51be352dbc4ddb893b/artifacts
+end_time: 1777868303386
+entry_point_name: ''
+experiment_id: '536171844502985584'
+lifecycle_stage: active
+run_id: 87c2db86f95d4d51be352dbc4ddb893b
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868299813
+status: 3
+tags: []
+user_id: saiha

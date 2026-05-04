@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/saiha/Downloads/Internals_Basics/MLOPs_Lab_CIE/mlruns/536171844502985584/models/m-cca6149c1a1241978234273642bffeaa/artifacts
+creation_timestamp: 1777868293155
+experiment_id: '536171844502985584'
+last_updated_timestamp: 1777868299795
+model_id: m-cca6149c1a1241978234273642bffeaa
+model_type: null
+name: model
+source_run_id: bce7638c57e2494d98c534090acc98ed
+status: 2
+status_message: null

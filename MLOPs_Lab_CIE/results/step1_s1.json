@@ -1,0 +1,22 @@
+{
+    "experiment_name": "geosurvey-land-stability-score",
+    "models": [
+        {
+            "name": "LinearRegression",
+            "mae": 6.299647123275393,
+            "rmse": 6.721319599193721,
+            "r2": 0.8473297537452029,
+            "mape": 12.842577761980056
+        },
+        {
+            "name": "RandomForest",
+            "mae": 10.610979999999964,
+            "rmse": 12.681279111588053,
+            "r2": 0.45653518082109745,
+            "mape": 20.59656748686546
+        }
+    ],
+    "best_model": "LinearRegression",
+    "best_metric_name": "rmse",
+    "best_metric_value": 6.721319599193721
+}
